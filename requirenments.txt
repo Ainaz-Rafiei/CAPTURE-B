@@ -1,0 +1,12 @@
+lifelines
+pydicom
+openslide-python
+openslide-bin
+pillow
+timm
+torchvision
+transformers==4.42.4
+torch==2.2.2
+einops==0.8.0
+environs==11.0.0
+sacremoses==0.1.1

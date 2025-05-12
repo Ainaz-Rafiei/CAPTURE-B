@@ -1,0 +1,21 @@
+Identifier,Temperature,Generated Caption,Term Value,Uncertainty Value,Response
+patient_image,1.0,"Examined on the liver tissue reveal benign lesion, with chronic inflammation in lamina propria.",0.9591543078422546,0.9183086156845093,Ductal
+patient_image,1.0,"Examined tissue; result: Necrosis of gastric mucosa with atypical lymphoid infiltrates, suggesting high-grade B-cell lymphoma.",0.9588471055030823,0.9176942110061646,Ductal
+patient_image,1.0,Examined tissue shows absence of tumor.,0.9559813141822815,0.9119626879692078,Ductal
+patient_image,1.0,Examined tissue: Right lung biopsy showing nodular adenocarcinoma and emphysema.,0.9582261443138123,0.9164522886276245,Ductal
+patient_image,1.0,Diagnosis: Superficial nodular basal cell carcinoma; no involvement of deeper layers.,0.9567959308624268,0.9135919213294983,Ductal
+patient_image,1.0,Diagnosis: Breast tissue showing complex and atypical ductal intraductal papilloma.,0.9551520943641663,0.9103041887283325,Ductal
+patient_image,1.0,"Examined tissue: Right supraclavicular lymph node revealed carcinoma, poorly differentiated; positive for AE1 / AE3, CK7, OSCAR, calretinin and ER.",0.9567959308624268,0.9135919213294983,Ductal
+patient_image,1.0,"Diagnosis: Right lower lobe mass, high-grade ductal carcinoma in situ present.",0.959307074546814,0.9186141490936279,Ductal
+patient_image,1.0,Diagnosis: No malignancy detected on breast tissue examination.,0.9564718008041382,0.9129436612129211,Ductal
+patient_image,1.0,"Diagnosed with chronic inflammatory changes and atypical acinar cells, Gleason score 7.",0.9583821892738342,0.9167643785476685,Ductal
+patient_image,1.0,"Found high-grade and non-high-grade DCIS, accompanied by atypical glands.",0.9571177959442139,0.914235532283783,Ductal
+patient_image,1.0,Diagnosed chronic inflammatory process with reactive mesothelial proliferation.,0.9566342234611511,0.9132684469223022,Ductal
+patient_image,1.0,"Examined tissue: Right middle medial wall, left apex and left papillary muscle.",0.9597620368003845,0.919524073600769,Ductal
+patient_image,1.0,Summary: Summary: Tumor bed-like tumor emboli and tumor emboli observed in tissue expander; confirmed on Dr. _ name.,0.9567959308624268,0.9135919213294983,Ductal
+patient_image,1.0,Pathology report indicates necrosis within a non-necrotizing follicular lymphoma.,0.9548162817955017,0.9096325039863586,Ductal
+patient_image,1.0,Examined tissue shows atypical melanocytic proliferation with involved margins.,0.956308901309967,0.9126178622245789,Ductal
+patient_image,1.0,Summary: Reactive changes and benign tumor bed changes in benign breast tissue; carcinoma not present.,0.9569571614265442,0.9139143228530884,Ductal
+patient_image,1.0,"Pathology reveals carcinoma in situ, atypical hyperplasia; high-grade intraepithelial neoplasia and squamous papilloma observed.",0.960212230682373,0.9204244017601013,Ductal
+patient_image,1.0,Examined with Dr. H.,0.9600626826286316,0.9201253652572632,Ductal
+patient_image,1.0,Lentigo maligna present in pigmented tissue; advise excision of tissue.,0.9590010046958923,0.9180019497871399,Ductal

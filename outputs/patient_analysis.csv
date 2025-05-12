@@ -1,0 +1,31 @@
+Identifier,Temperature,Generated Caption,Term Value,Uncertainty Value,Response
+tile_virchow_1,0.01,"Diagnosis: High-grade serous carcinoma of the ovary, fallopian tube, and peritoneum.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.06,"Diagnosis: High-grade serous carcinoma of the ovary, fallopian tube, and peritoneum.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.11,"Diagnosis: High-grade B-cell lymphoma with positive CD20, CD10, BCL2, BCL6, MUM1, and MYC.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.16,Diagnosis: High-grade serous carcinoma of the ovary.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.22,"Diagnosis: High-grade serous carcinoma of the ovary, fallopian tube, and peritoneum.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.27,"Diagnosis: High-grade prostatic intraepithelial neoplasia, carcinoma in situ, and atypical proliferation.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.32,Diagnosis: No carcinoma in examined tissue.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.37,"Examined tissue: Tissue diagnosis: Benign liver parenchyma, benign fibroadipose tissue, and benign fibroepithelial tumor.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.42,"Diagnosis: High-grade B-cell lymphoma with CD20, CD10, BCL2, BCL6 positivity.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.47,Diagnosis: Squamous cell carcinoma in situ with atypical squamous proliferation.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.52,"Diagnosis: High-grade squamous intraepithelial lesion, CIN3.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.58,"Tissue analysis: High-grade prostatic intraepithelial neoplasia found in left apex biopsy, with atypical glands and suspicious carcinoma.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.63,"Diagnosis: Right breast mass, right axillary lymph node, and left supraclavicular lymph node.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.68,Report indicates: 1.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.73,Non-necrotizing granuloma in lung tissue.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.78,Findings: Non-malignant findings in examined lymph nodes with reactive changes.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.83,Pathology: Diagnosed with fibroadenoma.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.88,Examined tissue: Bone fragment with benign pathology diagnosed.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.93,Diagnosis: Low-grade B-cell lymphoma with focal CLL / SLL features.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,0.99,Examined results: Breast parenchyma showing focal fibrosis with mucin.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.04,,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.09,"Identified specific organ involvement of high-grade sarcoma; findings include presence of atypical, spindled neoplasm with areas of significant hemorrhage.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.14,"Non-invasive, breast lesion with positive for atypical features diagnosed on A103 / AE1 / AE3 staining, and benign lesion diagnosed of biopsy; A103 stain with GATA3 positive cells.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.19,"Diagnosis: Moderately differentiated invasive ductal carcinoma, nuclear grade DCIS.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.24,"No specific organ: High-grade glioma in 6 nodules, carcinoma with neuroendocrine features in 7 tissue.",0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.29,Sossified fragment of intervertebral connective tissue observed with pathology and suggests degeneration and hemorrhage.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.35,Diagnosis: No atypical lymphoid aggregate present.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.4,High-producing grade serous carcinoma.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.45,Diagnosed breast sample carcinoma and atypical proliferation.,0.9577545523643494,0.915509045124054,Ductal
+tile_virchow_1,1.5,Diagnosis confirmed via pan-cytokeratin.,0.9577545523643494,0.915509045124054,Ductal
